@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Paulo F. Naibert
+My name is Paulo F. Naibert.
+
+You can find more details about me on personal website: https://pfnaibert.github.io/
 
 You can reach me at paulo.naibert@gmail.com.
 
