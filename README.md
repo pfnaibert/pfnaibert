@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Paulo F. Naibert
+
+You can reach me at paulo.naibert@gmail.com.
+
+### Interests:
+- R
+- LaTeX
+- bash
+- vim
+- emacs
