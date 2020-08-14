@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 My name is Paulo F. Naibert.
 
-You can find more details about me on personal website: https://pfnaibert.github.io/
+You can find more details about me on personal website: https://pfnaibert.github.io/.
 
 You can reach me at paulo.naibert@gmail.com.
 
